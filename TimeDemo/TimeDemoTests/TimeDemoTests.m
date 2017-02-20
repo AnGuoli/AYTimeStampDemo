@@ -1,6 +1,6 @@
 //
-//  AYTimeStampDemoTests.m
-//  AYTimeStampDemoTests
+//  TimeDemoTests.m
+//  TimeDemoTests
 //
 //  Created by 国立安 on 2017/2/21.
 //  Copyright © 2017年 国立安. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface AYTimeStampDemoTests : XCTestCase
+@interface TimeDemoTests : XCTestCase
 
 @end
 
-@implementation AYTimeStampDemoTests
+@implementation TimeDemoTests
 
 - (void)setUp {
     [super setUp];
